@@ -4,6 +4,6 @@
 
 💡 Working on Artificial Intelligence with Pyhton and C.
 
-## 🚀 What I'm Cureently Doing 
+## 🚀 What I'm Currently Doing 
 
 • Exploring cybersecurity in autonomous systems
